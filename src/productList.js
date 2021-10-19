@@ -16,7 +16,7 @@ import Pechuga_de_pavo from './img/Pechuga_de_pavo.jpg'
 import Tomate_verde from './img/Tomate_verde.jpg'
 
 
-const products= [
+const s= [
   {
     "name":     "Tomate",
     "newPrice": "$21.79/kg",
@@ -130,4 +130,4 @@ const products= [
     "img":      Jitomate
   }
 ]
-export default products;
+export default s;
